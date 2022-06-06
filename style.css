@@ -1,0 +1,41 @@
+body{
+    background-color:lightcoral;
+    color: blueviolet;
+    font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Permanent Marker', cursive;
+}
+#v1{
+    color: blueviolet;
+}
+#v1{
+    color: chartreuse;
+}
+#v{
+    color: crimson;
+}
+img:hover{
+    border: 7px purple ridge; 
+}
+#v{
+    text-align: left;
+}
+iframe:hover{
+border: 8px crimson dashed;
+}
+#s{
+    color: chartreuse;
+}
+#c{
+    color:purple;
+    font-size: 32px;
+}
+#s{
+    font-size: 32px;
+}
+h1{
+    color: aqua;
+}
+img:src{
+    text-align: left;
+}
